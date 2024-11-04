@@ -131,3 +131,12 @@ footer {
 .nav-link:hover {
     text-decoration: underline;
 }
+
+footer {
+    font-size: 12px;
+    padding: 10px;
+    text-align: center;
+    background-color: #f1f1f1;
+    border-top: 1px solid #ccc;
+}
+
